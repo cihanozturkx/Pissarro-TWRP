@@ -9,6 +9,13 @@ I already shared these on some platforms but GitHub is more organized.
 - Prebuilt image is for stock ROMs (or stock based ROMs) only; you can try raw TWRP image on your custom kernel
 - In releases: boot.img is prebuilt kernel, twrp-raw is TWRP ramdisk only.
 
+# Device List
+- Redmi Note 11 Pro+ 5G
+- Redmi Note 11 Pro
+- Redmi Note 11 Pro+
+- Xiaomi 11i
+- Xiaomi 11i Hypercharge
+
 # Tips
 - Always use stock vbmeta images. Pissarro's LK doesn't accept custom vbmeta images.
 - As you may noticed there are no recovery partition for Pissarro, it's in the boot image.
