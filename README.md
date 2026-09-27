@@ -4,10 +4,9 @@ I already shared these on some platforms but GitHub is more organized.
 
 - Android 13+ (MIUI & HyperOS)
 - Removed AVB and Forced Encryption (fixes dm-verity corruption)
-- Removed boot.img it's only recovery ramdisk
 - Pre-built an Android 13 boot image with TWRP so you won't encounter the nonsense I encountered
 - Prebuilt image is for stock ROMs (or stock based ROMs) only; you can try raw TWRP image on your custom kernel
-- In releases: boot.img is prebuilt kernel, twrp-raw is TWRP ramdisk only.
+- In releases: boot.img is prebuilt kernel, twrp-raw is TWRP ramdisk only
 
 # Device List
 - Redmi Note 11 Pro+ 5G
