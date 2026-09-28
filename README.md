@@ -21,4 +21,4 @@ I already shared these on some platforms but GitHub is more organized.
 - Do not flash Magisk or APatch from recovery. Always patch image from app and flash from fastboot.
 
 # Warning
-Even if this solves the AVB and Forced Encryption problem, your ROM will still throw dm-verity corruption error. That's because you also need to disable AVB and Forced Encryption in your super.img which can be done by RO2RW and DFE NEO script.
+Even if this solves the dm-verity error on kernel side, your ROM will still throw dm-verity corruption error. That's because you also need to disable AVB and Encryption in your super.img which can be done by **RO2RW** and **DFE NEO** script or manually editing fstab files.
